@@ -1,9 +1,9 @@
 # FFChallenge
 Code run during the Fragile Families Challenge
-Data is not supplied as the data is confidential
+Data is not supplied as it is confidential
 
 Code here is used to only document the modeling procedures conducted
-
+## Python Version: 3.5
 # Order of files
 ## pca_model.py 
 should be run first to find the best number of principle components per target model
